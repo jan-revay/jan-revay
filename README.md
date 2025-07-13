@@ -1,4 +1,4 @@
-## Hi there 👋
+## C++ developer and mathematician, also into Rust, Python, and Isabelle.
 
 <!--
 **jan-revay/jan-revay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
